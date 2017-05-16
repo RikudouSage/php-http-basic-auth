@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Simple HTTP basic auth that needs no framework",
   "homepage": "https://github.com/RikudouSage/php-http-basic-auth",
-  "keywords": ["basic", "auth", "http"],
+  "keywords": ["basic", "auth", "http", "basic auth", "basic authentication", "http basic auth", "http basic authentication"],
   "license": "WTFPL",
   "authors": [
     {
