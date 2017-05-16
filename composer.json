@@ -1,0 +1,19 @@
+{
+  "name": "rikudou/http-basic-auth",
+  "type": "library",
+  "description": "Simple HTTP basic auth that needs no framework",
+  "homepage": "https://github.com/RikudouSage/php-http-basic-auth",
+  "keywords": ["basic", "auth", "http"],
+  "license": "WTFPL",
+  "authors": [
+    {
+      "name": "Dominik Chrástecký",
+      "email": "dominik@chrastecky.cz"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Rikudou\\": "src"
+    }
+  }
+}
